@@ -1,4 +1,4 @@
 # Hello_world
 
 I am a Public health consultant,
-upgrading my skills in Healthcare IT.
+working on health awareness program by educating them on different topics.
